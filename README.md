@@ -16,10 +16,10 @@
     - [Performance Efficiency Pillar](https://d0.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf) 
     - [Cost Optimization](https://d0.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
  - [Security](https://aws.amazon.com/security/security-resources/)
-    - [AWS Best Practices for DDoS Resiliency](https://d0.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf)
-    - [AWS Security Checklist](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf)
+ 	- [AWS Security](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
     - [Introduction to AWS Security Processes](https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
     - [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+    - [AWS Security Checklist](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf)
     - [Overview of AWS Security - Storage Services](https://d0.awsstatic.com/whitepapers/Security/Security_Storage_Services_Whitepaper.pdf)
 	- [Overview of AWS Security - Database Services](https://d0.awsstatic.com/whitepapers/Security/Security_Database_Services_Whitepaper.pdf)
 	- [Overview of AWS Security - Compute Services](https://d0.awsstatic.com/whitepapers/Security/Security_Compute_Services_Whitepaper.pdf)
@@ -29,6 +29,7 @@
     - [Securing Data at Rest with Encryption](https://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf)
     - [Security at Scale: Logging in AWS](http://d0.awsstatic.com/whitepapers/compliance/AWS_Security_at_Scale_Logging_in_AWS_Whitepaper.pdf)
     - [AWS Key Management Service Best Practices](https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
+    - [AWS Best Practices for DDoS Resiliency](https://d0.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf)
 
 
  

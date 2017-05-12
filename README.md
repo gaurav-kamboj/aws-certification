@@ -36,6 +36,13 @@
     - [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
     - [Compliance Quick Reference Guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_Compliance_Quick_Reference.pdf)
     - [Key Compliance Questions](https://d0.awsstatic.com/whitepapers/compliance/AWS_Answers_to_Key_Compliance_Questions.pdf)
+  - DevOps
+    - [Practicing Continuous Integration and Continuous Delivery on AWS](https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+    - [Blue/Green Deployments on AWS](https://d0.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
+    - [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf)
+    - [Microservices on AWS](https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf)
+  - Backup & Recovery
+    - [Backup and Recovery Approaches Using AWS](https://d0.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf)
 
 
  

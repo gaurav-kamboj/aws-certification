@@ -12,7 +12,7 @@
    - [Using Encryption in S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html)
 
 ## AWS Whitepapers
- - [Well Architected Framework [IMP]](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+ - [Well Architected Framework (IMP)](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
     - [Security Pillar](https://d0.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf) 
     - [Reliability Pillar](https://d0.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
     - [Performance Efficiency Pillar](https://d0.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf) 

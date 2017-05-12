@@ -1,4 +1,7 @@
 # AWS YouTube Videos 
+
+# Compute
+
 ## EC2 
 
  - [AWS re:Invent 2016: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimization (CMP301)](https://youtu.be/agQMFIWr2h4)
@@ -12,6 +15,8 @@
  - [AWS re:Invent 2015: All You Need To Know About Auto Scaling (CMP201)](https://youtu.be/91TAx4fmcxk)
 
 ## ECS
+
+# Database
 
 ## Elasticache
  - [AWS re:Invent 2015: Amazon ElastiCache: Deep Dive (DAT407)](https://youtu.be/4VfIINg9DYI)

@@ -16,6 +16,16 @@
 
 ## ECS
 
+# Storage & Content Delivery
+
+## S3
+ - [AWS re:Invent 2015: Amazon S3 Deep Dive and Best Practices (STG401)](https://youtu.be/1TvJCLl9NNg)
+ - [AWS re:Invent 2016: Deep Dive on Amazon S3 (STG303)](https://youtu.be/bMhWWkhydFQ)
+ 
+## Glacier
+
+## CloudFront 
+
 # Database
 
 ## Elasticache
@@ -25,4 +35,13 @@
 ## DynamoDB
 
  - [AWS re:Invent 2015: Amazon DynamoDB Deep Dive (DAT401)](https://youtu.be/ggDIat_FZtA)
+
+# Networking
+
+## Route53
+
+## VPC
+
+## Direct Connect
+ - [AWS re:Invent 2016: Deep Dive: AWS Direct Connect and VPNs](https://youtu.be/Qep11X1r1QA) 
 

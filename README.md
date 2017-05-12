@@ -11,5 +11,15 @@
     - [AWS Security Checklist](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf)
     - [Introduction to AWS Security Processes](https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
     - [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+    - [Overview of AWS Security - Storage Services](https://d0.awsstatic.com/whitepapers/Security/Security_Storage_Services_Whitepaper.pdf)
+	- [Overview of AWS Security - Database Services](https://d0.awsstatic.com/whitepapers/Security/Security_Database_Services_Whitepaper.pdf)
+	- [Overview of AWS Security - Compute Services](https://d0.awsstatic.com/whitepapers/Security/Security_Compute_Services_Whitepaper.pdf)
+	- [Overview of AWS Security - Application Services](https://d0.awsstatic.com/whitepapers/Security/Security_Application_Services_Whitepaper.pdf)
+	- [Overview of AWS Security - Analytics, Mobile and Application Services](https://d0.awsstatic.com/whitepapers/Security/Security_Analytics_Mobile_Services_Applications_Whitepaper.pdf)
+	- [Overview of AWS Security - Network Services](https://d0.awsstatic.com/whitepapers/Security/Networking_Security_Whitepaper.pdf)
+    - [Securing Data at Rest with Encryption](https://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf)
+    - [Security at Scale: Logging in AWS](http://d0.awsstatic.com/whitepapers/compliance/AWS_Security_at_Scale_Logging_in_AWS_Whitepaper.pdf)
+    - [AWS Key Management Service Best Practices](https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
+
 
  

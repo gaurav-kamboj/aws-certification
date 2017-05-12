@@ -30,6 +30,10 @@
     - [Security at Scale: Logging in AWS](http://d0.awsstatic.com/whitepapers/compliance/AWS_Security_at_Scale_Logging_in_AWS_Whitepaper.pdf)
     - [AWS Key Management Service Best Practices](https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
     - [AWS Best Practices for DDoS Resiliency](https://d0.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf)
+  - [AWS Compliance](https://aws.amazon.com/compliance/)
+    - [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+    - [Compliance Quick Reference Guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_Compliance_Quick_Reference.pdf)
+    - [Key Compliance Questions](https://d0.awsstatic.com/whitepapers/compliance/AWS_Answers_to_Key_Compliance_Questions.pdf)
 
 
  

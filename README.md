@@ -1,6 +1,10 @@
 # AWS Certification
 
-## Whitepapers
+## AWS Documents 
+ - [AWS Service Limits](http://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
+ - [AWS Regions and Endpoints](http://docs.aws.amazon.com/general/latest/gr/rande.html)
+
+## AWS Whitepapers
  - [Well Architected Framework](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
     - [Security Pillar](https://d0.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf) 
     - [Reliability Pillar](https://d0.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)

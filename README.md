@@ -1,8 +1,13 @@
 # AWS Certification
 
+
+
 ## AWS Documents 
  - [AWS Service Limits](http://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
  - [AWS Regions and Endpoints](http://docs.aws.amazon.com/general/latest/gr/rande.html)
+ - [AWS Security Audit Guidelines](http://docs.aws.amazon.com/general/latest/gr/aws-security-audit-guide.html)
+ - [AWS Security Credentials](http://docs.aws.amazon.com/general/latest/gr/aws-security-credentials.html)
+ - [ARNs and Namespaces](http://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 
 ## AWS Whitepapers
  - [Well Architected Framework](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)

@@ -41,8 +41,8 @@
     - [Blue/Green Deployments on AWS](https://d0.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
     - [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf)
     - [Microservices on AWS](https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf)
-  - Backup & Recovery
-    - [Backup and Recovery Approaches Using AWS](https://d0.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf)
+  - [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
+  - [Backup and Recovery Approaches Using AWS](https://d0.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf)
 
 
  

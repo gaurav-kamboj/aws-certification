@@ -1,6 +1,12 @@
 # AWS YouTube Videos 
 ## EC2 
 
+ - [AWS re:Invent 2016: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimization (CMP301)](https://youtu.be/agQMFIWr2h4)
+ 
+## ELB
+
+ - [AWS re:Invent 2016: Elastic Load Balancing Deep Dive and Best Practices (NET403)](https://youtu.be/qy7zNaDTYGQ)
+
 ## ECS
 
 ## Elasticache

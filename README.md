@@ -43,6 +43,10 @@
     - [Microservices on AWS](https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf)
   - [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
   - [Backup and Recovery Approaches Using AWS](https://d0.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf)
+  - [Managing Multi-Tiered Applications with AWS OpsWorks](https://d0.awsstatic.com/whitepapers/managing-multi-tiered-web-applications-with-opsworks.pdf)
+  - [Overview of Deployment Options on AWS](https://d0.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf)
+  - [Using Amazon Web Services for Disaster Recovery](https://d0.awsstatic.com/whitepapers/aws-disaster-recovery.pdf)
+  - [Amazon Virtual Private Cloud Connectivity Options](https://d0.awsstatic.com/whitepapers/aws-amazon-vpc-connectivity-options.pdf)
 
 
  

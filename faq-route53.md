@@ -5,7 +5,8 @@
 
 DNS servers translate requests for names into IP addresses, controlling which server an end user will reach when they type a domain name into their web browser. These requests are called "**queries**."
 
-Each Route 53 account is limited to a **maximum of 500 hosted zones and 10,000 resource record sets per hosted zone**. 
+ - Each Route 53 account is limited to a **maximum of 500 hosted zones and 10,000 resource record sets per hosted zone**. 
+ - Route 53 supports **wildcard entries** (a wildcard DNS record such as *.example.com will match queries for www.example.com and subdomain.example.com)
 
 **Does Amazon Route 53 use an anycast network?**
 

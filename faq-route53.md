@@ -7,6 +7,7 @@ DNS servers translate requests for names into IP addresses, controlling which se
 
  - Each Route 53 account is limited to a **maximum of 500 hosted zones and 10,000 resource record sets per hosted zone**. 
  - Route 53 supports **wildcard entries** (a wildcard DNS record such as *.example.com will match queries for www.example.com and subdomain.example.com)
+ - **Route 53 does not have a default TTL for any record type**. You must always specify a TTL for each record so that caching DNS resolvers can cache your DNS records to the length of time specified through the TTL.
 
 **Does Amazon Route 53 use an anycast network?**
 

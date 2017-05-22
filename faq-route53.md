@@ -11,7 +11,7 @@ Each Route 53 account is limited to a **maximum of 500 hosted zones and 10,000 r
 
 Yes. Anycast is a networking and routing technology that helps your end users’ DNS queries get answered from the optimal Route 53 location given network conditions. As a result, your users get high availability and improved performance with Route 53.
 
-**DNS records supported by Route 53: **
+**DNS records supported by Route 53:**
 
 1. A (address record)
 1. AAAA (IPv6 address record)

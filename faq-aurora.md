@@ -6,3 +6,9 @@
 - Aurora with MySQL-compatibility delivers up to five times the performance of MySQL without requiring any changes to most MySQL applications.
 - MySQL-compatible means that most of the code, applications, drivers and tools you already use today with your MySQL databases can be used with Aurora with little or no change.
 - Aurora database engine is designed to be wire-compatible with MySQL 5.6 using the InnoDB storage engine. Certain MySQL features like the MyISAM storage engine are not available with Amazon Aurora.
+
+### How can I migrate from MySQL to Amazon Aurora and vice versa?
+
+- You can use the standard mysqldump utility to export data from MySQL and mysqlimport utility to import data to Amazon Aurora, and vice-versa. 
+- You can also use Amazon RDS’s DB Snapshot migration feature to migrate an RDS MySQL DB Snapshot to Amazon Aurora using the AWS Management Console. 
+

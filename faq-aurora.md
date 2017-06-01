@@ -5,3 +5,4 @@
 - Aurora is a relational database engine that combines the speed and reliability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.
 - Aurora with MySQL-compatibility delivers up to five times the performance of MySQL without requiring any changes to most MySQL applications.
 - MySQL-compatible means that most of the code, applications, drivers and tools you already use today with your MySQL databases can be used with Aurora with little or no change.
+- Aurora database engine is designed to be wire-compatible with MySQL 5.6 using the InnoDB storage engine. Certain MySQL features like the MyISAM storage engine are not available with Amazon Aurora.

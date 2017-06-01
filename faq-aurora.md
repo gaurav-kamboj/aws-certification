@@ -20,7 +20,7 @@
 - Based on your database usage, your Amazon Aurora storage will automatically grow, up to **64 TB**, in 10GB increments with no impact to database performance. 
 - There is **no need to provision storage in advance**.
 
-
+### How does Amazon Aurora improve my database’s fault tolerance to disk failures?
 - Amazon Aurora automatically divides your database volume into 10GB segments spread across many disks. 
 - Each 10GB chunk of your database volume is replicated six ways, across three Availability Zones. 
 - Amazon Aurora is designed to transparently handle the loss of up to two copies of data without affecting database write availability and up to three copies without affecting read availability. 
